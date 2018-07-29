@@ -1,2 +1,0 @@
-# site
-Recover Your Tezos
